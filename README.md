@@ -6,3 +6,7 @@ This is a small project to draw Images using horizontal lines with python turtle
 You can play around with the size and step size variables to change the image size and speed of drawing
 
 
+Sample of work :
+
+![Screen Shot](drawing.jpg?raw=true "Title")
+
