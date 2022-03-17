@@ -2,9 +2,7 @@ import turtle
 from PIL import Image
 import numpy as np
 
-
 wn=turtle.Screen()
-
 
 resize_ration=0.5
 step_size=1.3
@@ -65,8 +63,6 @@ def translate(string):
 
 '''
 
-
-
 def translate(string):
 
     res = ""
@@ -106,26 +102,12 @@ def translate(string):
     return lines
 
 
-
-
-
-
-
-
-
-
-
-
 pointer=turtle.Turtle()
 pointer.up()
 pointer.speed('fastest')
 pointer.goto(-700,370)
 pointer.down()
 pointer.pensize(1)
-
-
-
-
 
 
 for i in range(0,len(image)):
@@ -150,11 +132,7 @@ for i in range(0,len(image)):
     pointer.left(90)
     pointer.backward(s)
     pointer.down()
-
-
-         
-
-
+    
 '''
 for line in image:
     s=0
@@ -176,6 +154,5 @@ for line in image:
     pointer.down()
             
 '''
-
 
 wn.mainloop()
