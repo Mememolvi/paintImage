@@ -8,5 +8,5 @@ You can play around with the size and step size variables to change the image si
 
 Sample of work :
 
-![Screen Shot](drawing.jpg?raw=true "Title")
+![Alt text](drawing.jpg?raw=true "Title")
 
